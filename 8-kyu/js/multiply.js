@@ -1,0 +1,1 @@
+const multiplay = (a, b) => a * b;
